@@ -1,0 +1,1 @@
+This is a Data Exploration and Prediction Project (Regression), on the Boston House Prices Dataset. For this, we first find out the important features, and then train 5 different regressors on the dataset! The performance is also compared at the end.  
